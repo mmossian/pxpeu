@@ -32,9 +32,7 @@
 
     <!-- CSS Customization -->
     <link rel="stylesheet" href="<?= $this->init->baseUrl ?>assets-vial/css/custom.css">
-    <?php if(isset($files['requireGmap']) AND $files['requireGmap'] == TRUE): ?>
-      <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8STZZMv5hCyJIT8qvQJ6lbClmb1VyA1E&v=3&language=eu"></script>
-    <?php endif ?>
+
   </head>
 
   <body>
