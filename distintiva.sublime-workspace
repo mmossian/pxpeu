@@ -1,0 +1,1845 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"address_type"
+			],
+			[
+				"pla",
+				"place_id"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"id",
+				"id_property"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"idema",
+				"id_email"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"is",
+				"is_integer"
+			],
+			[
+				"max",
+				"max_size"
+			],
+			[
+				"re",
+				"readfile"
+			],
+			[
+				"fge",
+				"fgetcsv"
+			],
+			[
+				"all",
+				"allowed_types_files"
+			],
+			[
+				"movi",
+				"movimientosprueba"
+			],
+			[
+				"mov",
+				"movimientos"
+			],
+			[
+				"mo",
+				"movimientos"
+			],
+			[
+				"josn",
+				"json_encode"
+			],
+			[
+				"up",
+				"upload_path"
+			],
+			[
+				"pordu",
+				"products"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"data",
+				"data-trigger"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"ins",
+				"insertUser"
+			],
+			[
+				"ex",
+				"exchanges"
+			],
+			[
+				"redire",
+				"redirect"
+			],
+			[
+				"con",
+				"contacto"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"upd",
+				"updateUser"
+			],
+			[
+				"ema",
+				"emails"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"product",
+				"productos"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"sh",
+				"showBtns"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"base",
+				"baseUrl"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"random",
+				"random_string"
+			],
+			[
+				"_s",
+				"_send"
+			],
+			[
+				"tok",
+				"token_dec"
+			],
+			[
+				"encryp",
+				"encryption"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"po",
+				"product"
+			],
+			[
+				"na",
+				"nav-link"
+			],
+			[
+				"nav",
+				"nav-item"
+			],
+			[
+				"Permi",
+				"Permission"
+			],
+			[
+				"thro",
+				"throttling"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"dis",
+				"disclaimer"
+			],
+			[
+				"bas",
+				"baseUrl"
+			],
+			[
+				"get",
+				"getBy"
+			],
+			[
+				"validation",
+				"validation_errors"
+			],
+			[
+				"valid",
+				"valid_url"
+			],
+			[
+				"msg",
+				"msg_array"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"coll",
+				"collaborators-data"
+			],
+			[
+				"app",
+				"appDimmer"
+			],
+			[
+				"users",
+				"users_emails"
+			],
+			[
+				"hidde",
+				"hiddenForm"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"priv",
+				"privilege_fields"
+			],
+			[
+				"col",
+				"collaborator"
+			],
+			[
+				"collab",
+				"collaborators-data"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"check",
+				"checkAll"
+			],
+			[
+				"che",
+				"checkAll"
+			],
+			[
+				"pos",
+				"positive"
+			],
+			[
+				"la",
+				"labelTxt"
+			],
+			[
+				"chka",
+				"checkAll"
+			],
+			[
+				"lab",
+				"labelText"
+			],
+			[
+				"ida",
+				"id_address"
+			],
+			[
+				"socialaut",
+				"socialauth"
+			],
+			[
+				"hy",
+				"hybridauth"
+			],
+			[
+				"cla",
+				"calculations"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"bak",
+				"background-repeat\tproperty"
+			],
+			[
+				"baco",
+				"background-color\tproperty"
+			],
+			[
+				"tim",
+				"timezone"
+			],
+			[
+				"toggl",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"fill",
+				"fillAddress"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"lati",
+				"latitude"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"addre",
+				"address"
+			],
+			[
+				"displ",
+				"display-none"
+			],
+			[
+				"compan",
+				"company_name"
+			],
+			[
+				"com",
+				"company_name"
+			],
+			[
+				"min",
+				"min_length"
+			],
+			[
+				"true",
+				"TRUE"
+			],
+			[
+				"ds",
+				"display-none"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"a",
+				"addClass\t.addClass()"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"contai",
+				"container"
+			],
+			[
+				"out",
+				"outerHeight\t.outerHeight()"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"hd",
+				"hidden"
+			],
+			[
+				"phone_",
+				"phone_full"
+			],
+			[
+				"dele",
+				"deletePhone"
+			],
+			[
+				"fu",
+				"fullphone"
+			],
+			[
+				"ad",
+				"additionals_idphones"
+			],
+			[
+				"pho",
+				"phone_full"
+			],
+			[
+				"phon",
+				"phone_prefix"
+			],
+			[
+				"phone",
+				"phone_number"
+			],
+			[
+				"additionap",
+				"additionalPhones"
+			],
+			[
+				"addiem",
+				"additionalEmails"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"additin",
+				"additional-emails"
+			],
+			[
+				"v",
+				"validateEmails"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"cre",
+				"createDirStruct"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"geolo",
+				"geolocation"
+			],
+			[
+				"stop",
+				"stopImmediatePropagation"
+			],
+			[
+				"address",
+				"address_components"
+			],
+			[
+				"str_repa",
+				"str_replace"
+			],
+			[
+				"appe",
+				"appendTo\t.appendTo()"
+			],
+			[
+				"pwd",
+				"pwd-generated"
+			],
+			[
+				"info",
+				"INFO"
+			],
+			[
+				"ale",
+				"ALERT"
+			],
+			[
+				"ext",
+				"extra_data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/language/es/curso_lang.php",
+			"settings":
+			{
+				"buffer_size": 542,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/language/ek/curso_lang.php",
+			"settings":
+			{
+				"buffer_size": 556,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/config.php",
+			"settings":
+			{
+				"buffer_size": 18537,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/routes.php",
+			"settings":
+			{
+				"buffer_size": 2479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/files/centros.php",
+			"settings":
+			{
+				"buffer_size": 498,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/Cursos.php",
+			"settings":
+			{
+				"buffer_size": 2188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/files/cursos.php",
+			"settings":
+			{
+				"buffer_size": 433,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/es/cursos.php",
+			"settings":
+			{
+				"buffer_size": 277,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/index.php",
+			"settings":
+			{
+				"buffer_size": 4942,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets-vial/js/cursos.js",
+			"settings":
+			{
+				"buffer_size": 4162,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets-vial/js/centros.js",
+			"settings":
+			{
+				"buffer_size": 4257,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"php",
+				"PhpSpec: create example"
+			],
+			[
+				"TERMI",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termin",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"mini",
+				"Minify Javascript/CSS"
+			],
+			[
+				"minif",
+				"Minify Javascript/CSS to file"
+			],
+			[
+				"ter",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 274.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/distintiva",
+		"/var/www/html/distintiva/application",
+		"/var/www/html/distintiva/application/views",
+		"/var/www/html/distintiva/application/views/ek",
+		"/var/www/html/distintiva/application/views/ek/partials",
+		"/var/www/html/distintiva/application/views/ek/partials/cursos",
+		"/var/www/html/distintiva/application/views/es",
+		"/var/www/html/distintiva/application/views/es/partials",
+		"/var/www/html/distintiva/application/views/es/partials/cursos",
+		"/var/www/html/distintiva/assets-vial",
+		"/var/www/html/distintiva/assets-vial/js"
+	],
+	"file_history":
+	[
+		"/var/www/html/distintiva/application/views/es/partials/cursos/top-info.php",
+		"/var/www/html/distintiva/application/views/ek/partials/cursos/top-info.php",
+		"/var/www/html/distintiva/application/views/ek/partials/es/partials/cursos/top-info.php",
+		"/var/www/html/distintiva/application/controllers/Home.php",
+		"/var/www/html/distintiva/application/models/Init.php",
+		"/var/www/html/distintiva/application/controllers/Idioma.php",
+		"/var/www/html/distintiva/system/core/Lang.php",
+		"/var/www/html/distintiva/assets-vial/js/cursos.js",
+		"/var/www/html/distintiva/application/controllers/FichaCentro.php",
+		"/var/www/html/distintiva/application/config/files/preinscripcion.php",
+		"/var/www/html/distintiva/application/views/es/partials/ficha-centro/top-info.php",
+		"/var/www/html/distintiva/application/views/ek/partials/ficha-centro/top-info.php",
+		"/var/www/html/distintiva/application/controllers/Preinscripcion.php",
+		"/var/www/html/distintiva/application/views/es/partials/preinscripcion/top-action.php",
+		"/var/www/html/distintiva/application/views/ek/partials/preinscripcion/top-action.php",
+		"/var/www/html/passadore/vendor/bepsvpt/secure-headers/config/secure-headers.php",
+		"/var/www/html/passadore/application/models/User/Validate.php",
+		"/var/www/html/samos/application/views/es/forms/countries.twig",
+		"/var/www/html/samos/application/views/es/forms/phones.twig",
+		"/var/www/html/passadore/application/controllers/Admin/Properties.php",
+		"/var/www/html/passadore/application/views/es/admin/index.twig",
+		"/var/www/html/passadore/application/views/navs/admin-side-bar.twig",
+		"/var/www/html/passadore/application/language/es/navs/admin-side-bar_lang.php",
+		"/var/www/html/samos/application/views/es/public/login.twig",
+		"/var/www/html/samos/public/js/user.js",
+		"/var/www/html/samos/application/views/navs/public.twig",
+		"/var/www/html/samos/public/js/interface.js",
+		"/var/www/html/samos/public/js/public/home.js",
+		"/var/www/html/passadore/application/views/es/admin/side-bar.twig",
+		"/var/www/html/passadore/application/assets/css/common.css",
+		"/var/www/html/konig/application/config/database.php",
+		"/var/www/html/konig/application/config/files/validation-success.php",
+		"/var/www/html/konig/application/language/es/mail/password-recover_lang.php",
+		"/var/www/html/konig/application/controllers/RecoverPassword.php",
+		"/var/www/html/konig/application/language/es/mail/vencimiento-puntos_lang.php",
+		"/var/www/html/konig/application/language/es/message_lang.php",
+		"/var/www/html/konig/assets/js/ajax.js",
+		"/var/www/html/konig/assets/js/prizes.js",
+		"/var/www/html/konig/application/libraries/RedirectTo.php",
+		"/var/www/html/konig/assets/js/prize.js",
+		"/var/www/html/konig/assets/js/interface.js",
+		"/var/www/html/konig/application/controllers/BackEnd/Users/AddPoints.php",
+		"/var/www/html/konig/application/controllers/BackEnd/Access.php",
+		"/var/www/html/konig/application/language/es/validation/login_lang.php",
+		"/var/www/html/konig/application/views/products/list.twig",
+		"/var/www/html/konig/application/models/User/Validate.php",
+		"/var/www/html/konig/application/views/backend/access.twig",
+		"/var/www/html/konig/application/controllers/Login.php",
+		"/var/www/html/konig/application/controllers/Terms.php",
+		"/var/www/html/konig/application/config/files/user-terms.php",
+		"/var/www/html/konig/application/models/Init.php",
+		"/var/www/html/konig/application/config/files/public-terms.php",
+		"/var/www/html/konig/application/views/public/terminos.twig",
+		"/var/www/html/konig/application/views/public/footer.twig",
+		"/var/www/html/konig/application/views/frontend/nav.twig",
+		"/var/www/html/KONIG-G/terminos.php",
+		"/var/www/html/konig/application/controllers/Home.php",
+		"/var/www/html/konig/application/controllers/BackEnd/Home.php",
+		"/var/www/html/konig/application/controllers/BackEnd/Import.php",
+		"/var/www/html/konig/application/models/Uploader.php",
+		"/var/www/html/konig/application/controllers/BackEnd/ImportRead.php",
+		"/var/www/html/konig/application/models/User/GetUser.php",
+		"/var/www/html/konig/application/config/files/admin-import-read.php",
+		"/var/www/html/konig/application/config/files/admin-import.php",
+		"/var/www/html/konig/application/views/backend/index.twig",
+		"/var/www/html/konig/application/views/backend/import/read.twig",
+		"/var/www/html/konig/application/views/backend/import/home.twig",
+		"/var/www/html/konig/application/views/backend/header.twig",
+		"/var/www/html/konig/assets/js/import.js",
+		"/var/www/html/konig/assets/js/bsSettings.js",
+		"/var/www/html/konig/TODO",
+		"/var/www/html/konig/application/controllers/BackEnd/Users/Delete.php",
+		"/var/www/html/konig/application/models/User/UpdateUser.php",
+		"/var/www/html/konig/application/controllers/BackEnd/Users/Add.php",
+		"/var/www/html/konig/application/models/User/InsertUser.php",
+		"/var/www/html/konig/application/language/es/validation/add-user_lang.php",
+		"/var/www/html/konig/application/views/backend/content/users.twig",
+		"/var/www/html/konig/application/language/es/validation/user-profile_lang.php",
+		"/var/www/html/konig/application/language/es/validation/register-user_lang.php",
+		"/var/www/html/konig/application/controllers/FrontEnd/Profile.php",
+		"/var/www/html/konig/application/controllers/BackEnd/Users/Register.php",
+		"/var/www/html/MADMIN/import-points-details.php",
+		"/var/www/html/MADMIN/import-points.php",
+		"/var/www/html/konig/application/config/config.app.php",
+		"/var/www/html/konig/application/views/backend/left-menu.twig",
+		"/var/www/html/konig/application/models/Products.php",
+		"/var/www/html/konig/application/models/Import----.php",
+		"/var/www/html/konig/application/views/backend/prizes/add.twig",
+		"/var/www/html/konig/assets/js/user.js",
+		"/var/www/html/konig/application/views/modals/modal-delete-user.twig",
+		"/var/www/html/konig/application/config/files/admin-home.php",
+		"/var/www/html/konig/application/models/Points.php",
+		"/var/www/html/konig/application/views/backend/content/edit-user.twig",
+		"/var/www/html/konig/application/views/backend/content/add-user.twig",
+		"/var/www/html/konig/application/controllers/BackEnd/Users/Edit.php",
+		"/var/www/html/konig/application/views/frontend/modal-prize.twig",
+		"/var/www/html/konig/application/views/prizes/list.twig",
+		"/var/www/html/konig/application/config/files/user-prizes.php",
+		"/var/www/html/konig/application/controllers/FrontEnd/Prizes.php",
+		"/var/www/html/konig/application/views/prizes/home.twig",
+		"/var/www/html/konig/application/controllers/FrontEnd/Product.php",
+		"/var/www/html/konig/application/views/products/home.twig",
+		"/var/www/html/konig/application/config/files/user-products.php",
+		"/var/www/html/konig/application/config/files/admin-prizes.php",
+		"/var/www/html/konig/application/config/files/admin-edit-prizes.php",
+		"/var/www/html/konig/application/controllers/BackEnd/Prizes/Prizes.php",
+		"/var/www/html/konig/application/controllers/BackEnd/Prizes/Edit.php",
+		"/var/www/html/konig/application/controllers/BackEnd/Prizes/Add.php",
+		"/var/www/html/konig/application/controllers/BackEnd/Products/Add.php",
+		"/var/www/html/konig/application/views/backend/products/add.twig",
+		"/var/www/html/konig/application/controllers/BackEnd/Prizes/Delete.php",
+		"/var/www/html/konig/application/controllers/BackEnd/Products/Delete.php",
+		"/var/www/html/konig/application/models/Prize.php",
+		"/var/www/html/konig/application/views/index.twig",
+		"/var/www/html/konig/application/views/backend/prizes/home.twig",
+		"/var/www/html/konig/application/views/backend/prizes/edit.twig",
+		"/var/www/html/konig/application/views/backend/user-menu.twig",
+		"/var/www/html/konig/application/views/modals/modal-delete-prize.twig",
+		"/var/www/html/konig/application/config/files/user-register.php",
+		"/var/www/html/konig/application/views/backend/user-register.twig",
+		"/var/www/html/konig/application/views/frontend/profile.twig",
+		"/var/www/html/konig/application/controllers/Ajuste.php",
+		"/var/www/html/konig/application/models/Password.php",
+		"/var/www/html/MADMIN/award-add.php",
+		"/var/www/html/konig/application/views/backend/products/edit.twig",
+		"/var/www/html/konig/application/controllers/BackEnd/Exchange.php",
+		"/var/www/html/MADMIN/award-edit.php",
+		"/var/www/html/konig/application/language/es/mail/user-exchanges_lang.php"
+	],
+	"find":
+	{
+		"height": 61.0
+	},
+	"find_in_files":
+	{
+		"height": 188.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"table",
+			"dataCentro"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/language/es/curso_lang.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/language/ek/curso_lang.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								530,
+								530
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/config/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								867,
+								867
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 351.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/config/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2336,
+								2336
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2106.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/config/files/centros.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/controllers/Cursos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								768,
+								768
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 936.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/config/files/cursos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/views/es/cursos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/views/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1918,
+								1918
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "assets-vial/js/cursos.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2186,
+								2186
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2808.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "assets-vial/js/centros.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2065,
+								2065
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 80.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 206.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 222.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 246.0
+	},
+	"pinned_build_system": "",
+	"project": "distintiva.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"es/partials/cursos/top-info",
+				"application/views/ek/partials/es/partials/cursos/top-info.php"
+			],
+			[
+				"rou",
+				"application/config/routes.php"
+			],
+			[
+				"centros",
+				"assets-vial/js/centros.js"
+			],
+			[
+				"cursos",
+				"assets-vial/js/cursos.js"
+			],
+			[
+				"lang",
+				"system/core/Lang.php"
+			],
+			[
+				"init",
+				"application/models/Init.php"
+			],
+			[
+				"index.php",
+				"application/views/index.php"
+			],
+			[
+				"preinscripcion",
+				"application/config/files/preinscripcion.php"
+			],
+			[
+				"pre",
+				"application/controllers/Preinscripcion.php"
+			],
+			[
+				"curso_l",
+				"application/language/ek/curso_lang.php"
+			],
+			[
+				"ficha",
+				"application/controllers/FichaCentro.php"
+			],
+			[
+				"confi",
+				"application/config/config.php"
+			],
+			[
+				"autocom",
+				"application/assets/js/location/autocomplete.js"
+			],
+			[
+				"secure",
+				"vendor/bepsvpt/secure-headers/config/secure-headers.php"
+			],
+			[
+				"valid",
+				"application/models/User/Validate.php"
+			],
+			[
+				"index",
+				"application/views/index.twig"
+			],
+			[
+				"properties",
+				"application/controllers/Admin/Property/Properties.php"
+			],
+			[
+				"pro",
+				"application/models/Property.php"
+			],
+			[
+				"todo",
+				"TODO"
+			],
+			[
+				"rout",
+				"application/config/routes.php"
+			],
+			[
+				"config.a",
+				"application/config/config.app.php"
+			],
+			[
+				"admin-s",
+				"application/views/navs/admin-side-bar.twig"
+			],
+			[
+				"prizes",
+				"application/controllers/FrontEnd/Prizes.php"
+			],
+			[
+				"backend/content/exchange.twig",
+				"application/views/backend/content/exchange.twig"
+			],
+			[
+				"backend/index.twig",
+				"application/views/backend/index.twig"
+			],
+			[
+				"admin-exchange",
+				"application/config/files/admin-exchange.php"
+			],
+			[
+				"BackEnd/Exchange",
+				"application/controllers/BackEnd/Exchange.php"
+			],
+			[
+				"exc",
+				"assets/js/exchange.js"
+			],
+			[
+				"bs",
+				"assets/js/bsSettings.js"
+			],
+			[
+				"redir",
+				"application/libraries/RedirectTo.php"
+			],
+			[
+				"validation-s",
+				"application/config/files/validation-success.php"
+			],
+			[
+				"validation-success",
+				"application/config/files/validation-success.php"
+			],
+			[
+				"message.twig",
+				"application/views/message.twig"
+			],
+			[
+				"priZe",
+				"assets/js/prize.js"
+			],
+			[
+				"inter",
+				"assets/js/interface.js"
+			],
+			[
+				"mess",
+				"application/language/es/message_lang.php"
+			],
+			[
+				"point",
+				"application/models/Points.php"
+			],
+			[
+				"ajax",
+				"assets/js/ajax.js"
+			],
+			[
+				"pri",
+				"assets/js/prizes.js"
+			],
+			[
+				"validate",
+				"application/models/User/Validate.php"
+			],
+			[
+				"validation/login",
+				"application/language/es/validation/login_lang.php"
+			],
+			[
+				"login",
+				"application/controllers/Login.php"
+			],
+			[
+				"sma",
+				"application/libraries/Smail.php"
+			],
+			[
+				"validation/register-user",
+				"application/language/es/validation/register-user_lang.php"
+			],
+			[
+				"BackEnd/Users/Register",
+				"application/controllers/BackEnd/Users/Register.php"
+			],
+			[
+				"BackEnd/Users/Add",
+				"application/controllers/BackEnd/Users/Add.php"
+			],
+			[
+				"validation/user-profile",
+				"application/language/es/validation/user-profile_lang.php"
+			],
+			[
+				"update",
+				"application/models/User/UpdateUser.php"
+			],
+			[
+				"User/insertUser",
+				"application/models/User/InsertUser.php"
+			],
+			[
+				"validation/add-user",
+				"application/language/es/validation/add-user_lang.php"
+			],
+			[
+				"Dele",
+				"application/controllers/BackEnd/Users/Delete.php"
+			],
+			[
+				"uploa",
+				"application/models/Uploader.php"
+			],
+			[
+				"home",
+				"application/controllers/BackEnd/Home.php"
+			],
+			[
+				"get",
+				"application/models/User/GetUser.php"
+			],
+			[
+				"config.app",
+				"application/config/config.app.php"
+			],
+			[
+				"admin-im",
+				"application/config/files/admin-import.php"
+			],
+			[
+				"import",
+				"assets/js/import.js"
+			],
+			[
+				"inser",
+				"application/models/User/InsertUser.php"
+			],
+			[
+				"getu",
+				"application/models/User/GetUser.php"
+			],
+			[
+				"uploader",
+				"application/models/Uploader.php"
+			],
+			[
+				"interf",
+				"assets/js/interface.js"
+			],
+			[
+				"admin-home",
+				"application/config/files/admin-home.php"
+			],
+			[
+				"priz",
+				"assets/js/prizes.js"
+			],
+			[
+				"messa",
+				"application/language/es/message_lang.php"
+			],
+			[
+				"poin",
+				"application/models/Points.php"
+			],
+			[
+				"getus",
+				"application/models/User/GetUser.php"
+			],
+			[
+				"insertUser",
+				"application/models/User/InsertUser.php"
+			],
+			[
+				"upda",
+				"application/models/User/UpdateUser.php"
+			],
+			[
+				"BackEnd/Users/Edit",
+				"application/controllers/BackEnd/Users/Edit.php"
+			],
+			[
+				"FrontEnd/Prizes",
+				"application/controllers/FrontEnd/Prizes.php"
+			],
+			[
+				"prize",
+				"assets/js/prize.js"
+			],
+			[
+				"prizes/list.twig",
+				"application/views/prizes/list.twig"
+			],
+			[
+				"prizes/home.twig",
+				"application/views/prizes/home.twig"
+			],
+			[
+				"frontend/modal-prize.twig",
+				"application/views/frontend/modal-prize.twig"
+			],
+			[
+				"user-prizes",
+				"application/config/files/user-prizes.php"
+			],
+			[
+				"products/list.twig",
+				"application/views/products/list.twig"
+			],
+			[
+				"products/home.twig",
+				"application/views/products/home.twig"
+			],
+			[
+				"user-products",
+				"application/config/files/user-products.php"
+			],
+			[
+				"products/add",
+				"application/views/backend/products/add.twig"
+			],
+			[
+				"Produ",
+				"application/models/Products.php"
+			],
+			[
+				"Add",
+				"application/controllers/BackEnd/Products/Add.php"
+			],
+			[
+				"delete",
+				"application/controllers/BackEnd/Products/Delete.php"
+			],
+			[
+				"config.ma",
+				"application/config/config.mail.php"
+			],
+			[
+				"logi",
+				"application/controllers/Login.php"
+			],
+			[
+				"pass",
+				"application/models/Password.php"
+			],
+			[
+				"backend/user-register.twig",
+				"application/views/backend/user-register.twig"
+			],
+			[
+				"user-register",
+				"application/config/files/user-register.php"
+			],
+			[
+				"register",
+				"application/controllers/BackEnd/Users/Register.php"
+			],
+			[
+				"prof",
+				"application/controllers/FrontEnd/Profile.php"
+			],
+			[
+				"reg",
+				"application/controllers/BackEnd/Users/Register.php"
+			],
+			[
+				"prod",
+				"application/models/Products.php"
+			],
+			[
+				"admin-edi",
+				"application/config/files/admin-edit-products.php"
+			],
+			[
+				"Edit",
+				"application/controllers/BackEnd/Products/Edit.php"
+			],
+			[
+				"products/edi",
+				"application/views/backend/products/edit.twig"
+			],
+			[
+				"points",
+				"application/models/Points.php"
+			],
+			[
+				"ex",
+				"application/controllers/BackEnd/Exchange.php"
+			],
+			[
+				"models/pri",
+				"application/models/Prize.php"
+			],
+			[
+				"exchan",
+				"application/controllers/BackEnd/Exchange.php"
+			],
+			[
+				"redi",
+				"application/libraries/RedirectTo.php"
+			],
+			[
+				"mes",
+				"application/language/es/message_lang.php"
+			],
+			[
+				"vali",
+				"application/models/User/Validate.php"
+			],
+			[
+				"backend/in",
+				"application/views/backend/index.twig"
+			],
+			[
+				"Produc",
+				"application/models/Products.php"
+			],
+			[
+				"mod",
+				"application/views/modals/modal-aproved-exchange.twig"
+			],
+			[
+				"logo",
+				"application/controllers/Logout.php"
+			],
+			[
+				"exchange",
+				"application/views/backend/content/exchange.twig"
+			],
+			[
+				"log",
+				"application/controllers/Logout.php"
+			],
+			[
+				"modal",
+				"application/views/modals/modal-reject-exchange.twig"
+			],
+			[
+				"upd",
+				"application/models/User/UpdateUser.php"
+			],
+			[
+				"red",
+				"application/libraries/RedirectTo.php"
+			],
+			[
+				"admin-edit-user",
+				"application/config/files/admin-edit-user.php"
+			],
+			[
+				"admin-add-points",
+				"application/config/files/admin-add-points.php"
+			],
+			[
+				"ajas",
+				"assets/js/ajax.js"
+			],
+			[
+				"shop",
+				"assets/css/shop.style.css"
+			],
+			[
+				"Edi",
+				"application/controllers/BackEnd/Users/Edit.php"
+			],
+			[
+				"add",
+				"application/views/backend/content/add-points.twig"
+			],
+			[
+				"ap",
+				"assets/css/app.css"
+			],
+			[
+				"ind",
+				"application/views/index.twig"
+			],
+			[
+				"top",
+				"application/views/frontend/top-bar.twig"
+			],
+			[
+				"public/nva",
+				"application/views/public/nav.twig"
+			],
+			[
+				"nav",
+				"application/views/frontend/nav.twig"
+			],
+			[
+				"public/ind",
+				"application/views/public/index.twig"
+			],
+			[
+				"config",
+				"application/config/config.php"
+			],
+			[
+				"menc",
+				"application/libraries/Mencrypt.php"
+			],
+			[
+				"val",
+				"application/models/User/Validate.php"
+			],
+			[
+				"auto",
+				"application/config/autoload.php"
+			],
+			[
+				"user",
+				"application/config/files/user-home.php"
+			],
+			[
+				"app",
+				"assets/css/app.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/html/passadore/passadore.sublime-project"
+			],
+			[
+				"smat",
+				"/var/www/html/stalent/smart-talent.sublime-project"
+			],
+			[
+				"sta",
+				"/var/www/html/stalent/smart-talent.sublime-project"
+			],
+			[
+				"stale",
+				"/var/www/html/stalent/smart-talent.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 830.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

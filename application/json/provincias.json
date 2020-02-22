@@ -1,0 +1,61 @@
+[
+	{
+		"provincia": "Cataluña",
+		"ext_nombre": "Comunidad Autónoma: Cataluña",
+		"localidades": [
+			{
+				"nombre": "Barcelona",
+				"centros": [
+					{
+						"nombre": "Centro 1",
+						"address": {
+							"country": "ES",
+							"locality": "Barcelona",
+							"postal_code": "",
+							"address": "",
+							"latitude": "",
+							"longitude": "",
+							"place_id": "",
+							"timezone": "",
+							"tz_offset": ""
+						},
+						"cursos": [
+							"Recuperación de puntos",
+							"Recuperación de permiso"
+						]
+					},
+					{
+						"nombre": "Centro 2",
+						"address":{
+							"country": "ES",
+							"locality": "Barcelona",
+							"postal_code": "",
+							"address": "",
+							"latitude": "",
+							"longitude": "",
+							"place_id": "",
+							"timezone": "",
+							"tz_offset": ""
+						},
+						"cursos": [
+							"Recuperación de puntos",
+							"Recuperación de permiso"
+						]
+					}
+				]
+			},
+			{
+				"nombre": "Gerona",
+				"centros": []
+			},
+			{
+				"nombre": "Lleida",
+				"centros": []
+			},
+			{
+				"nombre": "Tarragona",
+				"centros": []
+			}
+		]
+	}
+]
